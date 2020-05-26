@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
+
+@media (max-width: 420px) {
+  
+ 
+} 

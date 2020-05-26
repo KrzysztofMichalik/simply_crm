@@ -1,0 +1,62 @@
+{
+    "borrowed": 25350000,
+    "annualProfit": 4350000,
+    "conversion": 45.13,
+    "averageIncome": 1350000,
+    "dealTypes": [
+        {
+            "name": "SBA 7a",
+            "value": 123
+        },
+        {
+            "name": "SBA 504",
+            "value": 234
+        }
+    ],
+    "deals": [
+        {
+            "name": "Robinson Materials, Inc",
+            "progressType": 1,
+            "progressName": "Approval",
+            "typeName": "SBA 7a",
+            "amount": 1350000,
+            "contactName": "James Peters",
+            "contactPhoto": "av1",
+            "dateCreated": "09-06-2018",
+            "dateModified": "09-16-2018"
+        },
+        {
+            "name": "Gilbert Reeves",
+            "progressType": 2,
+            "progressName": "Underwriting",
+            "typeName": "SBA 7a",
+            "amount": 2150000,
+            "contactName": "Kevin Houston",
+            "contactPhoto": "av2",
+            "dateCreated": "12-26-2018",
+            "dateModified": "01-29-2019"
+        },
+        {
+            "name": "Frank McGee",
+            "progressType": 3,
+            "progressName": "Application",
+            "typeName": "SBA 504",
+            "amount": 550000,
+            "contactName": "Jerry Zimmerman",
+            "contactPhoto": "av3",
+            "dateCreated": "03-06-2018",
+            "dateModified": "04-07-2018"
+        },
+        {
+            "name": "Danny Cook",
+            "progressType": 2,
+            "progressName": "Underwriting",
+            "typeName": "SBA 7a",
+            "amount": 1880000,
+            "contactName": "Devin Sharp",
+            "contactPhoto": "av4",
+            "dateCreated": "02-12-2019",
+            "dateModified": "03-01-2019"
+        }
+    ]
+}
